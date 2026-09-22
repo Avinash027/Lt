@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,CostPrice,SupplierName,LaunchDate,Status,CountryOfOrigin
+P001,Mobile Pro 1,Electronics,Mobile,Brand1,58.75,41.12,Supplier1,2024-01-01,Active,USA
+P002,Laptop Pro 2,Electronics,Laptop,Brand2,67.5,47.25,Supplier2,2024-02-02,Active,China
+P003,Desktop Pro 3,Computers,Desktop,Brand3,76.25,53.38,Supplier3,2024-03-03,Active,India
+P004,Mouse Pro 4,Accessories,Mouse,Brand4,85,59.5,Supplier4,2024-04-04,Active,Japan
+P005,Keyboard Pro 5,Accessories,Keyboard,Brand5,93.75,65.62,Supplier5,2024-05-05,Active,South Korea
+P006,Console Pro 6,Gaming,Console,Brand6,102.5,71.75,Supplier6,2024-06-06,Active,Germany
+P007,Headphones Pro 7,Audio Devices,Headphones,Brand7,111.25,77.88,Supplier7,2024-07-07,Active,USA
+P008,SSD Pro 8,Storage Devices,SSD,Brand8,120,84,Supplier8,2024-08-08,Active,China
+P009,Router Pro 9,Networking,Router,Brand9,128.75,90.12,Supplier9,2024-09-09,Active,India
+P010,Smart Home Pro 10,Home Appliances,Smart Home,Brand10,137.5,96.25,Supplier10,2024-10-10,Discontinued,Japan
+P011,Mobile Pro 11,Electronics,Mobile,Brand11,146.25,102.38,Supplier11,2024-11-11,Active,South Korea
+P012,Laptop Pro 12,Electronics,Laptop,Brand12,155,108.5,Supplier12,2024-12-12,Active,Germany
+P013,Desktop Pro 13,Computers,Desktop,Brand13,163.75,114.62,Supplier13,2024-01-13,Active,USA
+P014,Mouse Pro 14,Accessories,Mouse,Brand14,172.5,120.75,Supplier14,2024-02-14,Active,China
+P015,Keyboard Pro 15,Accessories,Keyboard,Brand15,181.25,126.87,Supplier15,2024-03-15,Active,India
+P016,Console Pro 16,Gaming,Console,Brand1,190,133,Supplier16,2024-04-16,Active,Japan
+P017,Headphones Pro 17,Audio Devices,Headphones,Brand2,198.75,139.12,Supplier17,2024-05-17,Active,South Korea
+P018,SSD Pro 18,Storage Devices,SSD,Brand3,207.5,145.25,Supplier18,2024-06-18,Active,Germany
+P019,Router Pro 19,Networking,Router,Brand4,216.25,151.38,Supplier19,2024-07-19,Active,USA
+P020,Smart Home Pro 20,Home Appliances,Smart Home,Brand5,225,157.5,Supplier20,2024-08-20,Discontinued,China
+P021,Mobile Pro 21,Electronics,Mobile,Brand6,233.75,163.62,Supplier1,2024-09-21,Active,India
+P022,Laptop Pro 22,Electronics,Laptop,Brand7,242.5,169.75,Supplier2,2024-10-22,Active,Japan
+P023,Desktop Pro 23,Computers,Desktop,Brand8,251.25,175.88,Supplier3,2024-11-23,Active,South Korea
+P024,Mouse Pro 24,Accessories,Mouse,Brand9,260,182,Supplier4,2024-12-24,Active,Germany
+P025,Keyboard Pro 25,Accessories,Keyboard,Brand10,268.75,188.12,Supplier5,2024-01-25,Active,USA
+P026,Console Pro 26,Gaming,Console,Brand11,277.5,194.25,Supplier6,2024-02-26,Active,China
+P027,Headphones Pro 27,Audio Devices,Headphones,Brand12,286.25,200.38,Supplier7,2024-03-27,Active,India
+P028,SSD Pro 28,Storage Devices,SSD,Brand13,295,206.5,Supplier8,2024-04-28,Active,Japan
+P029,Router Pro 29,Networking,Router,Brand14,303.75,212.62,Supplier9,2024-05-01,Active,South Korea
+P030,Smart Home Pro 30,Home Appliances,Smart Home,Brand15,312.5,218.75,Supplier10,2024-06-02,Discontinued,Germany
+P031,Mobile Pro 31,Electronics,Mobile,Brand1,321.25,224.87,Supplier11,2024-07-03,Active,USA
+P032,Laptop Pro 32,Electronics,Laptop,Brand2,330,231,Supplier12,2024-08-04,Active,China
+P033,Desktop Pro 33,Computers,Desktop,Brand3,338.75,237.12,Supplier13,2024-09-05,Active,India
+P034,Mouse Pro 34,Accessories,Mouse,Brand4,347.5,243.25,Supplier14,2024-10-06,Active,Japan
+P035,Keyboard Pro 35,Accessories,Keyboard,Brand5,356.25,249.37,Supplier15,2024-11-07,Active,South Korea
+P036,Console Pro 36,Gaming,Console,Brand6,365,255.5,Supplier16,2024-12-08,Active,Germany
+P037,Headphones Pro 37,Audio Devices,Headphones,Brand7,373.75,261.62,Supplier17,2024-01-09,Active,USA
+P038,SSD Pro 38,Storage Devices,SSD,Brand8,382.5,267.75,Supplier18,2024-02-10,Active,China
+P039,Router Pro 39,Networking,Router,Brand9,391.25,273.88,Supplier19,2024-03-11,Active,India
+P040,Smart Home Pro 40,Home Appliances,Smart Home,Brand10,400,280,Supplier20,2024-04-12,Discontinued,Japan
+P041,Mobile Pro 41,Electronics,Mobile,Brand11,408.75,286.12,Supplier1,2024-05-13,Active,South Korea
+P042,Laptop Pro 42,Electronics,Laptop,Brand12,417.5,292.25,Supplier2,2024-06-14,Active,Germany
+P043,Desktop Pro 43,Computers,Desktop,Brand13,426.25,298.38,Supplier3,2024-07-15,Active,USA
+P044,Mouse Pro 44,Accessories,Mouse,Brand14,435,304.5,Supplier4,2024-08-16,Active,China
+P045,Keyboard Pro 45,Accessories,Keyboard,Brand15,443.75,310.62,Supplier5,2024-09-17,Active,India
+P046,Console Pro 46,Gaming,Console,Brand1,452.5,316.75,Supplier6,2024-10-18,Active,Japan
+P047,Headphones Pro 47,Audio Devices,Headphones,Brand2,461.25,322.88,Supplier7,2024-11-19,Active,South Korea
+P048,SSD Pro 48,Storage Devices,SSD,Brand3,470,329,Supplier8,2024-12-20,Active,Germany
+P049,Router Pro 49,Networking,Router,Brand4,478.75,335.12,Supplier9,2024-01-21,Active,USA
+P050,Smart Home Pro 50,Home Appliances,Smart Home,Brand5,487.5,341.25,Supplier10,2024-02-22,Discontinued,China
+P051,Mobile Pro 51,Electronics,Mobile,Brand6,496.25,347.38,Supplier11,2024-03-23,Active,India
+P052,Laptop Pro 52,Electronics,Laptop,Brand7,505,353.5,Supplier12,2024-04-24,Active,Japan
+P053,Desktop Pro 53,Computers,Desktop,Brand8,513.75,359.62,Supplier13,2024-05-25,Active,South Korea
+P054,Mouse Pro 54,Accessories,Mouse,Brand9,522.5,365.75,Supplier14,2024-06-26,Active,Germany
+P055,Keyboard Pro 55,Accessories,Keyboard,Brand10,531.25,371.88,Supplier15,2024-07-27,Active,USA
+P056,Console Pro 56,Gaming,Console,Brand11,540,378,Supplier16,2024-08-28,Active,China
+P057,Headphones Pro 57,Audio Devices,Headphones,Brand12,548.75,384.12,Supplier17,2024-09-01,Active,India
+P058,SSD Pro 58,Storage Devices,SSD,Brand13,557.5,390.25,Supplier18,2024-10-02,Active,Japan
+P059,Router Pro 59,Networking,Router,Brand14,566.25,396.38,Supplier19,2024-11-03,Active,South Korea
+P060,Smart Home Pro 60,Home Appliances,Smart Home,Brand15,575,402.5,Supplier20,2024-12-04,Discontinued,Germany
+P061,Mobile Pro 61,Electronics,Mobile,Brand1,583.75,408.62,Supplier1,2024-01-05,Active,USA
+P062,Laptop Pro 62,Electronics,Laptop,Brand2,592.5,414.75,Supplier2,2024-02-06,Active,China
+P063,Desktop Pro 63,Computers,Desktop,Brand3,601.25,420.88,Supplier3,2024-03-07,Active,India
+P064,Mouse Pro 64,Accessories,Mouse,Brand4,610,427,Supplier4,2024-04-08,Active,Japan
+P065,Keyboard Pro 65,Accessories,Keyboard,Brand5,618.75,433.12,Supplier5,2024-05-09,Active,South Korea
+P066,Console Pro 66,Gaming,Console,Brand6,627.5,439.25,Supplier6,2024-06-10,Active,Germany
+P067,Headphones Pro 67,Audio Devices,Headphones,Brand7,636.25,445.38,Supplier7,2024-07-11,Active,USA
+P068,SSD Pro 68,Storage Devices,SSD,Brand8,645,451.5,Supplier8,2024-08-12,Active,China
+P069,Router Pro 69,Networking,Router,Brand9,653.75,457.62,Supplier9,2024-09-13,Active,India
+P070,Smart Home Pro 70,Home Appliances,Smart Home,Brand10,662.5,463.75,Supplier10,2024-10-14,Discontinued,Japan
+P071,Mobile Pro 71,Electronics,Mobile,Brand11,671.25,469.87,Supplier11,2024-11-15,Active,South Korea
+P072,Laptop Pro 72,Electronics,Laptop,Brand12,680,476,Supplier12,2024-12-16,Active,Germany
+P073,Desktop Pro 73,Computers,Desktop,Brand13,688.75,482.12,Supplier13,2024-01-17,Active,USA
+P074,Mouse Pro 74,Accessories,Mouse,Brand14,697.5,488.25,Supplier14,2024-02-18,Active,China
+P075,Keyboard Pro 75,Accessories,Keyboard,Brand15,706.25,494.37,Supplier15,2024-03-19,Active,India
+P076,Console Pro 76,Gaming,Console,Brand1,715,500.5,Supplier16,2024-04-20,Active,Japan
+P077,Headphones Pro 77,Audio Devices,Headphones,Brand2,723.75,506.62,Supplier17,2024-05-21,Active,South Korea
+P078,SSD Pro 78,Storage Devices,SSD,Brand3,732.5,512.75,Supplier18,2024-06-22,Active,Germany
+P079,Router Pro 79,Networking,Router,Brand4,741.25,518.88,Supplier19,2024-07-23,Active,USA
+P080,Smart Home Pro 80,Home Appliances,Smart Home,Brand5,750,525,Supplier20,2024-08-24,Discontinued,China
+P081,Mobile Pro 81,Electronics,Mobile,Brand6,758.75,531.12,Supplier1,2024-09-25,Active,India
+P082,Laptop Pro 82,Electronics,Laptop,Brand7,767.5,537.25,Supplier2,2024-10-26,Active,Japan
+P083,Desktop Pro 83,Computers,Desktop,Brand8,776.25,543.38,Supplier3,2024-11-27,Active,South Korea
+P084,Mouse Pro 84,Accessories,Mouse,Brand9,785,549.5,Supplier4,2024-12-28,Active,Germany
+P085,Keyboard Pro 85,Accessories,Keyboard,Brand10,793.75,555.62,Supplier5,2024-01-01,Active,USA
+P086,Console Pro 86,Gaming,Console,Brand11,802.5,561.75,Supplier6,2024-02-02,Active,China
+P087,Headphones Pro 87,Audio Devices,Headphones,Brand12,811.25,567.88,Supplier7,2024-03-03,Active,India
+P088,SSD Pro 88,Storage Devices,SSD,Brand13,820,574,Supplier8,2024-04-04,Active,Japan
+P089,Router Pro 89,Networking,Router,Brand14,828.75,580.12,Supplier9,2024-05-05,Active,South Korea
+P090,Smart Home Pro 90,Home Appliances,Smart Home,Brand15,837.5,586.25,Supplier10,2024-06-06,Discontinued,Germany
+P091,Mobile Pro 91,Electronics,Mobile,Brand1,846.25,592.38,Supplier11,2024-07-07,Active,USA
+P092,Laptop Pro 92,Electronics,Laptop,Brand2,855,598.5,Supplier12,2024-08-08,Active,China
+P093,Desktop Pro 93,Computers,Desktop,Brand3,863.75,604.62,Supplier13,2024-09-09,Active,India
+P094,Mouse Pro 94,Accessories,Mouse,Brand4,872.5,610.75,Supplier14,2024-10-10,Active,Japan
+P095,Keyboard Pro 95,Accessories,Keyboard,Brand5,881.25,616.88,Supplier15,2024-11-11,Active,South Korea
+P096,Console Pro 96,Gaming,Console,Brand6,890,623,Supplier16,2024-12-12,Active,Germany
+P097,Headphones Pro 97,Audio Devices,Headphones,Brand7,898.75,629.12,Supplier17,2024-01-13,Active,USA
+P098,SSD Pro 98,Storage Devices,SSD,Brand8,907.5,635.25,Supplier18,2024-02-14,Active,China
+P099,Router Pro 99,Networking,Router,Brand9,916.25,641.38,Supplier19,2024-03-15,Active,India
+P100,Smart Home Pro 100,Home Appliances,Smart Home,Brand10,925,647.5,Supplier20,2024-04-16,Discontinued,Japan
